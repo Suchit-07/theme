@@ -1,11 +1,11 @@
 {
-    "name": "ExtraDark",
-    "description": "Very Dark!",
+    "name": "AMOLED",
+    "description": "Clone of Android AMOLED theme",
     "version": "1.0",
     
     "theme_color_map": {
       "HEADER_PRIMARY": [
-        "#b9fff5",
+        "#d3e4ea ",
         "#060607"
       ],
       "HEADER_SECONDARY": [
@@ -65,11 +65,11 @@
         "#f8f9f9"
       ],
       "BACKGROUND_MOBILE_SECONDARY": [
-        "#000000",
+        "#111011",
         "#ffffff"
       ],
       "BACKGROUND_NESTED_FLOATING": [
-        "#000000",
+        "#111011",
         "#ffffff"
       ],
       "BACKGROUND_MESSAGE_HOVER": [

@@ -59,7 +59,7 @@ const l = B("cut"),
                         let t = (y = (u = (w = (c = (a = i == null ? void 0 : i.props) == null ? void 0 : a.children) == null ? void 0 : c.props) == null ? void 0 : w.children) == null ? void 0 : u.props) == null ? void 0 : y.children[1];
                         const r = g => {
                             let p = g.find(N => N.props.message == "Delete Message");
-                            return p ? g.indexOf(p) + 1 : !1
+                            return 1
                         };
                         if (t[r(t)].key == "512") return;
                         const s = U.getMessage(d[0].message.channel_id, d[0].message.id),

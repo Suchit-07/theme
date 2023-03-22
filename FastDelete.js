@@ -73,7 +73,7 @@ const l = B("cut"),
                                     D.open({
                                         content: "Deleted Successfully",
                                         source: S("leaf")
-                                    }), G.setString(s.content), o.deleteMessage(`${s.channel_id}`, `${s.id}`), F.hideActionSheet()
+                                    }), o.deleteMessage(`${s.channel_id}`, `${s.id}`), F.hideActionSheet()
                                 }
                             }),
                             P = () => {
